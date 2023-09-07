@@ -3,7 +3,7 @@
 
 - 📋 Atualmente focado em análise de dados 
 - 📊 Viciado em gráficos bonitos
-- 🧁 Viciado em açaí
+- 🧁 Amante de açaí
 - 😵 Muito comunicativo, porém introvertido ao mesmo tempo
 - 🎮 Jogador de fps nas horas vagas
 

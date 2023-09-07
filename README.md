@@ -1,4 +1,5 @@
 ## My name is Vito 🙇🏾‍♀️ !
+<img align="right" alt="Gatinho foda" height="400" width="400" src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/main/gatolouco.gif">
 
 - 📋 Atualmente focado em análise de dados 
 - 📊 Viciado em gráficos bonitos
@@ -27,6 +28,7 @@
   <img align="center" alt="Vitor-SQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Vitor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="Vitor-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+   
 
   </div>
 
@@ -42,3 +44,5 @@
 
 ### 🎧 Ouvindo agora :
 <picture>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22o43bf2ltlk2spkrrfvbft3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=b14e4e)](https://github.com/kittinan/spotify-github-profile) </picture>
+
+

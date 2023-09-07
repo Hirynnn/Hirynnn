@@ -28,6 +28,7 @@
   <img align="center" alt="Vitor-SQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Vitor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
    <img align="center" alt="Vitor-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+    <img align="center" alt="Vitor-Tableau" height="30" width="40" src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/main/Tableau.png" />
    
 
   </div>

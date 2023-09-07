@@ -1,5 +1,5 @@
 ## My name is Vito 🙇🏾‍♀️ !
-<img align="right" alt="Gatinho foda" height="400" width="400" src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/main/gatolouco.gif">
+<img align="right" alt="Gatinho foda" height="350" width="350" src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/main/gatolouco.gif">
 
 - 📋 Atualmente focado em análise de dados 
 - 📊 Viciado em gráficos bonitos

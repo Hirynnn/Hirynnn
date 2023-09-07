@@ -38,3 +38,6 @@
   <a href="https://www.linkedin.com/in/vitor-aguiar-b23277232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+### 🎧 Ouvindo agora :
+<picture>[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22o43bf2ltlk2spkrrfvbft3q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=false&bar_color=b14e4e)](https://github.com/kittinan/spotify-github-profile) </picture>

@@ -1,7 +1,7 @@
 ## My name is Vito 🙇🏾‍♀️ !
 <img align="right" alt="Gatinho foda" height="350" width="350" src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/main/gatolouco.gif">
 
-- 📋 Atualmente aprendendo javaScript
+- 📋 Atualmente aprendendo JavaScript
 - 📊 Viciado em gráficos bonitos
 - 🧁 Amante de açaí
 - 😵 Muito comunicativo, porém introvertido ao mesmo tempo

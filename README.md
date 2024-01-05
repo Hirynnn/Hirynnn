@@ -1,9 +1,8 @@
 ## Vitor Araujo Aguiar
 <img align="right" alt="Gatinho foda" height="350" width="350" src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/main/gatolouco.gif">
 
-- 📋 Atualmente aprendendo  Power Bi
-- 📊 Viciado em gráficos bonitos
-- 🧁 Amante de açaí
+- 📋 Atualmente estudando java
+  
 
 
 

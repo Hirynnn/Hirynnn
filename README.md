@@ -1,7 +1,7 @@
-## Vitor Araujo Aguiar
-<img align="right" alt="Gatinho foda" height="350" width="350" src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/main/gatolouco.gif">
 
-- 📋 Atualmente estudando java
+
+
+###  -  Atualmente estudando java ☕
   
 
 
@@ -21,13 +21,11 @@
 
 ### 🛠 Tecnologias :
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitor-SQL" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Vitor-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="Vitor-Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
-    <img align="center" alt="Vitor-Tableau" height="30" width="40" src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/main/Tableau.png" />
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
+  <img align="center" alt="Vitor-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
+  <img align="center" alt="Vitor-git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />
+
    
 
   </div>

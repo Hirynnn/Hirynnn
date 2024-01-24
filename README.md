@@ -1,13 +1,17 @@
 
 
 
-<h1>Olá , aceita um café ? ☕ </h1>
+<h1>Vitor Aguiar 🎈 ☕ </h1>
 
 
 <hr>
-<img src="https://github.com/Hirynnn/Hirynnn/blob/main/gatolouco.gif"  align="right"</img>
 
-  
+
+  <div >Meu nome é Vitor, tenho 20 anos e sou estudante de Sistemas de Informação na FAETERJ-Paracambi. Sou apaixonado pela área de dados e tenho experiência em projetos simples utlizando ferramentas como Power BI, Python e SQL. Também fiz alguns cursos na área, como o Google Data Analyst Certificate pela Coursera e o Análise com Pandas pela Digital Innovation One.</div>
+
+
+  <br>
+  <img src="https://github.com/Hirynnn/Hirynnn/blob/main/gatolouco.gif"  align="right"</img>
 
 
 
@@ -26,7 +30,7 @@
 
 ### 🛠 Tecnologias :
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://github.com/Hirynnn/Hirynnn/blob/main/1510966735.jpg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="Vitor-git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />

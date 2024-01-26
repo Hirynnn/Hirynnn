@@ -7,7 +7,8 @@
 <hr>
 
 
-  <div >Meu nome é Vitor, tenho 20 anos e sou estudante de Sistemas de Informação na FAETERJ-Paracambi. Sou apaixonado pela área de dados e tenho experiência em projetos simples utlizando ferramentas como Power BI, Python e SQL. Também fiz alguns cursos na área, como o Google Data Analyst Certificate pela Coursera e o Análise com Pandas pela Digital Innovation One.</div>
+  <div >Oi! Sou um estudante dedicado de Sistemas de Informação na FAETERJ Paracambi, apaixonado pelo mundo da programação. Atualmente, estou aprimorando minhas habilidades através da formação Java na Digital Innovation One. Além disso, tenho experiência sólida em análise de dados, utilizando ferramentas como Python, SQL e Power BI.</div>
+  <br>
 
 
   <br>

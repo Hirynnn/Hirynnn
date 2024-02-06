@@ -7,8 +7,12 @@
 <hr>
 
 
-  <div >Oi! Sou um estudante dedicado de Sistemas de Informação na FAETERJ Paracambi, apaixonado pelo mundo da programação. Atualmente, estou aprimorando minhas habilidades através da formação Java na Digital Innovation One. Além disso, tenho experiência sólida em análise de dados, utilizando ferramentas como Python, SQL e Power BI.</div>
-  <br>
+<div>
+
+Aoba!<br>
+Meu nome é Vitor, atualmente cursando Sistemas de Informação na FAETERJ Paracambi. Estou estudando muito Java e buscando estágio na área de web, além de ter experiência em projetos pessoais.
+
+</div>
 
 
   <br>
@@ -31,7 +35,10 @@
 
 ### 🛠 Tecnologias :
 <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://github.com/Hirynnn/Hirynnn/blob/main/1510966735.jpg">
+
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
+
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="Vitor-git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />

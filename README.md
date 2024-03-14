@@ -7,14 +7,15 @@
 <hr>
 
 
-<div>
+<h3>
 
 Aoba!<br>
-Meu nome é Vitor, atualmente cursando Sistemas de Informação na FAETERJ Paracambi. Estou estudando muito Java e busco estágio na área de web! 
+Meu nome é Vitor,tenho 20 anos, atualmente cursando Sistemas de Informação na FAETERJ Paracambi. 
+Meu foco de estudos atualmente é java, mas busco aprender qualquer tecnologia interessante. 
 
 
 
-</div>
+</h3>
 
 
   <br>

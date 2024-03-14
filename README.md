@@ -10,7 +10,7 @@
 <div>
 
 Aoba!<br>
-Meu nome é Vitor, atualmente cursando Sistemas de Informação na FAETERJ Paracambi. Estou estudando muito Java e buscando estágio na área de web! 
+Meu nome é Vitor, atualmente cursando Sistemas de Informação na FAETERJ Paracambi. Estou estudando muito Java e busco estágio na área de web! 
 
 
 

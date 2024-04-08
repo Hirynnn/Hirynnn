@@ -11,7 +11,7 @@
 
 Aoba!<br>
 Meu nome é Vitor,tenho 20 anos e atualmente cursando Sistemas de Informação na FAETERJ Paracambi. 
-Meu foco de estudos atualmente é java, mas busco aprender qualquer tecnologia interessante. 
+Atualmente meu foco de estudos é análise de dados com pythom , SQL e Power BI . 
 
 
 

@@ -10,9 +10,7 @@
 <h3>
 
 Aoba!<br>
-Meu nome é Vitor,tenho 20 anos e atualmente cursando Sistemas de Informação na FAETERJ Paracambi. 
-Atualmente meu foco de estudos é análise de dados com pythom , SQL e Power BI . 
-
+Meu nome é Vitor, tenho 20 anos e atualmente estou cursando Sistemas de Informação na FAETERJ Paracambi. No momento, estou concentrado em estudar na área de dados, com ênfase na análise utilizando Python com Pandas e modelos preditivos, além de possuir conhecimentos em SQL e visualização de dados com Power BI.
 
 
 </h3>
@@ -39,9 +37,8 @@ Atualmente meu foco de estudos é análise de dados com pythom , SQL e Power BI 
 ### 🛠 Tecnologias :
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://github.com/Hirynnn/Hirynnn/blob/main/power%20bi.webp">
 
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
   <img align="center" alt="Vitor-git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" />

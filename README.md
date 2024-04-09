@@ -10,8 +10,9 @@
 <h3>
 
 Aoba!<br>
-Meu nome é Vitor, tenho 20 anos e atualmente estou cursando Sistemas de Informação na FAETERJ Paracambi. No momento, estou concentrado em estudar na área de dados, com ênfase na análise utilizando Python com Pandas e modelos preditivos, além de possuir conhecimentos em SQL e visualização de dados com Power BI.
-
+Meu nome é Vitor, tenho 20 anos e atualmente estou cursando Sistemas de Informação na FAETERJ Paracambi. No momento, estou concentrado em estudar a área de desenvolvimento web, com foco em java spring.
+<br>
+<br><i>Busco meu primeiro estágio! </i>
 
 </h3>
 
@@ -37,7 +38,7 @@ Meu nome é Vitor, tenho 20 anos e atualmente estou cursando Sistemas de Informa
 ### 🛠 Tecnologias :
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://github.com/Hirynnn/Hirynnn/blob/main/power%20bi.webp">
+  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
 
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">
   <img align="center" alt="Vitor-Python" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">

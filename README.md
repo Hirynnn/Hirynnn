@@ -10,7 +10,7 @@
 <h3>
 
 Aoba!<br>
-Meu nome é Vitor, tenho 20 anos e atualmente estou cursando Sistemas de Informação na FAETERJ Paracambi. No momento, estou concentrado em estudar a área de desenvolvimento web, com foco em java spring.
+Meu nome é Vitor, tenho 20 anos e atualmente estou cursando Sistemas de Informação na FAETERJ Paracambi. Amante de dados, gráficos bonitos e tópicos interessantes.
 <br>
 <br><i>Busco meu primeiro estágio! </i>
 

@@ -1,7 +1,7 @@
 
 
 
-<h1>Vitor Aguiar 🎈 ☕ </h1>
+<h1>Aoba! Vitor Aguiar 🎈 ☕ </h1>
 
 
 <hr>
@@ -9,10 +9,10 @@
 
 <h3>
 
-Aoba!<br>
-Meu nome é Vitor, tenho 20 anos e atualmente estou cursando Sistemas de Informação na FAETERJ Paracambi. Amante de dados, gráficos bonitos e tópicos interessantes.
+
+Desenvolvedor Backend apaixonado por java spring
 <br>
-<br><i>Busco meu primeiro estágio! </i>
+
 
 </h3>
 
@@ -21,18 +21,6 @@ Meu nome é Vitor, tenho 20 anos e atualmente estou cursando Sistemas de Informa
   <img src="https://github.com/Hirynnn/Hirynnn/blob/main/gatolouco.gif"  align="right"</img>
 
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Hirynnn&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Hirynnna&show_icons=true"
-    media="(prefers-color-scheme: purple), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Hirynnn&show_icons=true" />
-</picture>
 
 
 ### 🛠 Tecnologias :

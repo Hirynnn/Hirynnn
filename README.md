@@ -10,8 +10,7 @@
 
 <h3>
 
-
-Estudando Backend com Java Spring e ocasionalmente faço algumas análises com Python e Power BI.
+Atualmente comecei a estudar C# e ocasionalmente faço algumas análises com Python e Power BI.
 <br>
 
 

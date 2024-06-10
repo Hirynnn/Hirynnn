@@ -3,7 +3,7 @@
 
 <h1>Vitor Aguiar 🎈 ☕ </h1>
 
- - Estudante de Sistemas de informação, viciado em inventar nome de variável.
+ - Estudante de Sistemas de informação, viciado em inventar nome de variável e fã de dark theme.
  - Atualmente estudando c# mas também faço algumas análises com python e power bi.
  - Gosto de açaí e jogos competitivos 🍨
 

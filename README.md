@@ -13,7 +13,7 @@
  </div>
 
 ### 🛠 Tecnologias :
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Vitor-HTML" height="30" width="40" src= "https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg">
   <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg">

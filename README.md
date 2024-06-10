@@ -26,7 +26,7 @@
 
  ### 🕶 Social :
 <div style="display: inline_block"> 
-<a> href="https://instagram.com/Hirynnn" target="_blank">
+<a href="https://instagram.com/Hirynnn" target="_blank">
   <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg">
 </a>
 <a href="https://twitter.com/hirynnn" target="_blank">

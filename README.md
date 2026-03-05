@@ -3,7 +3,6 @@
 - 22 anos  
 - Cursando **Sistemas de Informação**  na FAETERJ-Paracambi
 - Gosto de livros de fantasia e de levantar peso na academia 📚🏋️  
-- Experiência com **React**, **Express**, **Bootstrap**, **TailwindCSS**, **Power Apps**e **MySQL**
 
 <br>
 

@@ -18,7 +18,6 @@
   <img align="center" alt="Bootstrap" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg">
   <img align="center" alt="TailwindCSS" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
 
-  <img align="center" alt="Docker" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
   <img align="center" alt="MySQL" height="35" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
 
 </div>

@@ -1,3 +1,7 @@
+<table>
+  <tr>
+    <td valign="top" width="65%">
+
 # Vitor Araujo Aguiar
 
 Desenvolvedor de Software Júnior | Full Stack
@@ -17,8 +21,9 @@ Graduando em Sistemas de Informação, com experiência em desenvolvimento de ap
 - **E-mail:** [aguiarv05@gmail.com](mailto:aguiarv05@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hirynnn](https://linkedin.com/in/hirynnn)
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/refs/heads/main/gatolouco.gif" width="300" alt="Gato louco">
-</p>
+    </td>
+    <td valign="middle" width="35%">
+      <img src="https://raw.githubusercontent.com/Hirynnn/Hirynnn/refs/heads/main/gatolouco.gif" width="300" alt="Gato louco">
+    </td>
+  </tr>
+</table>

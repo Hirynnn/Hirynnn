@@ -10,7 +10,7 @@
 
 Graduando em Sistemas de Informação, com experiência no desenvolvimento de aplicações web, APIs REST e automação de processos. Tenho interesse em criar soluções eficientes e explorar novas tecnologias.
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,java,react,html,css,nodejs,nestjs,express,postgres,mysql,mongodb,docker,git,github" alt="Tecnologias" />
@@ -22,7 +22,7 @@ Graduando em Sistemas de Informação, com experiência no desenvolvimento de ap
 - **Banco de dados:** PostgreSQL, MySQL e MongoDB
 - **Ferramentas:** Git, GitHub, Docker e Power Platform
 
-## 📫 Contato
+##  Contato
 
 <p align="left">
   <a href="https://linkedin.com/in/hirynnn">

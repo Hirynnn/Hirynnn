@@ -17,7 +17,7 @@ Graduando em Sistemas de Informação, com experiência no desenvolvimento de ap
 </p>
 
 - **Linguagens:** JavaScript, TypeScript, Java e SQL
-- **Frontend:** React, React Native, HTML e CSS
+- **Frontend:** Angular, React, React Native, HTML e CSS
 - **Backend:** Node.js, Express e NestJS
 - **Banco de dados:** PostgreSQL, MySQL e MongoDB
 - **Ferramentas:** Git, GitHub, Docker e Power Platform
